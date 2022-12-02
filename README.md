@@ -31,9 +31,9 @@
 * Familiar with Godaddy, Leapswitch, Bigrock, Hostinger, Hostgator
 * Handling Webmail, SSL Activation on Domain
 
-Portfolio
+<b> Portfolio </b>
 <hr>
-Data Science Projects
+<b> Data Science Projects </b>
 <hr> 
   
   * House Pricing Prediction
@@ -52,7 +52,7 @@ Data Science Projects
   Python / Django - <a href="https://pm.uja.in/">Software</a>
   
 <hr>
-Website Project 
+<b> Website Projects </b>
  <hr>
   
 Project 1 : <a href="https://uja.in/" >here</a><br>
