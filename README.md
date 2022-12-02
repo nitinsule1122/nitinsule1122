@@ -9,7 +9,7 @@
 
 * Currently Working Company <a href="https://uja.in/" >here</a>
 
-* You Can Contact Me Here, <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" >sulenitin56@gmail.com<br>
+* You Can Contact Me Here, <a href="mailto:sulenitin56@gmail.com" >sulenitin56@gmail.com<br>
 
 * My LinkeDin Profile <a href="https://www.linkedin.com/in/nitin-sule/"> here</a>
 
