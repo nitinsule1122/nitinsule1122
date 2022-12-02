@@ -1,11 +1,11 @@
 # Hi, I am Nitin Sule.
 * Python / Django/ Wordpress / Web Developer </b><br>
+* Completed Data Science Certification
+* I’m looking job in Data Science | Machine learning | Web Scraping | Data Engineer 
 
-* Actively seeking job opportunities as Data Analyst, Data Science and Machine Learning Engineer who takes pride in building models that translate data points into business insights.
+* I'm Good in Data Science | Machine Learning | Deep Learning | Data Visualization | Web Scarping
 
-* I'm Good in Data Science | Machine Learning | Deep Learning | Data Visualization  
-
-* Currently Working : Web Scarping | Python Developer | Django | WordPress | Website Development | SEO | Website Speed Optimisation | Google Search Console <br>
+* Currently Working :  Python | Django | WordPress | Website Development | SEO | Website Speed Optimisation | Google Search Console 
 
 * Currently Working Company <a href="https://uja.in/" >here</a>
 
@@ -13,7 +13,7 @@
 
 * My LinkeDin Profile <a href="https://www.linkedin.com/in/nitin-sule/"> here</a>
 
-<hr>
+----------
 
 * Familiar with Machine Learning Algorithms
 * Effectively perform Exploratory data analysis (EDA) and Data Visualization Techniques
@@ -33,9 +33,28 @@
 
 Portfolio
 <hr>
+Data Science Projects
+<hr> 
+  
+  * House Pricing Prediction
+  
+  * Loan Approval Prediction Analysis
 
-Recent Completed Peojects ( Completed OWN Projects )
-
+  * Time Series Forecasting 
+  
+  * Restaurant Reviews
+  
+  * Web Scraping of Flipkart Products
+  
+  * Web Scraping of News Heading and Descriptions ( The Tribune )
+  
+ 
+  Python / Django - <a href="https://pm.uja.in/">Software</a>
+  
+<hr>
+Website Project 
+ <hr>
+  
 Project 1 : <a href="https://uja.in/" >here</a>,<br>
 Project 2 : <a href="https://uja.in/jp" >here</a>,<br>
 Project 3 : <a href="https://uja.in/it" >here</a>,<br>
@@ -53,3 +72,4 @@ Project 14 : <a href="https://femininepune.com/" >here</a>,<br>
 Project 15 : <a href="https://neuroncharitabletrust.com/" >here</a>,<br>
 Project 16 : <a href="https://ceratecgroup.com/" >here</a>,<br>
 Project 17 : <a href="https://vantagecapital.in/" >here</a>,<br>
+  
