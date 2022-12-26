@@ -30,7 +30,7 @@
 * Handling Shared Hosting, Reseller Hosting, Business Hosting,
 * Familiar with Godaddy, Leapswitch, Bigrock, Hostinger, Hostgator
 * Handling Webmail, SSL Activation on Domain
-
+ 
 <b> Portfolio </b>
 <hr>
 <b> Data Science Projects </b>
