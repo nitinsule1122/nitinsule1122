@@ -49,7 +49,7 @@
   * Web Scraping of News Heading and Descriptions ( The Tribune )
   
  
-  Python / Django - <a href="https://pm.uja.in/">Software</a>
+  Python / Django - Software
   
 <hr>
 <b> Website Projects </b>
