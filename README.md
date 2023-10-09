@@ -1,6 +1,7 @@
 # Hi, I am Nitin Sule.
-* Python / Django/ Wordpress / Web Developer </b><br>
+
 * Completed Data Science Certification
+* * Python / Django / Web Developer / Wordpress </b><br>
 * I’m looking job in Data Science | Machine learning | Web Scraping | Data Engineer 
 
 * I'm Good in Data Science | Machine Learning | Deep Learning | Data Visualization | Web Scarping
