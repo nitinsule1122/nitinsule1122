@@ -1,6 +1,6 @@
 # Hi, I am Nitin Sule.
 
-* Completed Data Science Certification
+* Data Science Course Certificate <a href="https://github.com/nitinsule1122/Certifications/blob/9fc13827ebbaa2ce12a1ce7f5f66f5513969bbbb/Data%20Science%20Course%20Certificate%20-%20Nitin%20Sule.pdf"> here </a>
 * Python / Django / Web Developer / Wordpress </b><br>
 * I’m looking job in Data Science | Machine learning | Web Scraping | Data Engineer 
 
@@ -14,7 +14,6 @@
 
 * My LinkeDin Profile <a href="https://www.linkedin.com/in/nitin-sule/"> here</a>   
  
-* Data Science Course Certificate <a href="https://github.com/nitinsule1122/Certifications/blob/9fc13827ebbaa2ce12a1ce7f5f66f5513969bbbb/Data%20Science%20Course%20Certificate%20-%20Nitin%20Sule.pdf"> here </a>
 
 ----------
 
