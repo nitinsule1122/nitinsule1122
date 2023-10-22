@@ -2,15 +2,14 @@
 
 * Data Science Course Certificate <a href="https://github.com/nitinsule1122/Certifications/blob/9fc13827ebbaa2ce12a1ce7f5f66f5513969bbbb/Data%20Science%20Course%20Certificate%20-%20Nitin%20Sule.pdf"> here </a>
 * Python / Django / Web Developer / Wordpress </b><br>
-* I’m looking job in Data Science | Machine learning | Web Scraping | Data Engineer 
 
-* I'm Good in Data Science | Machine Learning | Deep Learning | Data Visualization | Web Scarping
+* Worked on Data Science | Machine Learning | Deep Learning | Data Visualization | Web Scarping
 
-* Currently Working :  Python | Django | WordPress | Website Development | SEO | Website Speed Optimisation | Google Search Console 
+* Currently Working :  Python | Django | WordPress | Website Development | SEO | Website Speed Optimization | Google Search Console 
 
 * Currently Working Company <a href="https://uja.in/" >here</a>
 
-* You Can Contact Me Here, <a href="mailto:sulenitin56@gmail.com" >sulenitin56@gmail.com<br>
+* You Can Contact Me here: <a href="mailto:sulenitin56@gmail.com" >sulenitin56@gmail.com<br>
 
 * My LinkeDin Profile <a href="https://www.linkedin.com/in/nitin-sule/"> here</a>   
  
