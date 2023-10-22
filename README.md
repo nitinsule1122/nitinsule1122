@@ -2,7 +2,7 @@
 
 * Data Science Course Certificate <a href="https://github.com/nitinsule1122/Certifications/blob/9fc13827ebbaa2ce12a1ce7f5f66f5513969bbbb/Data%20Science%20Course%20Certificate%20-%20Nitin%20Sule.pdf"> here </a>
 
-* Worked on Data Science | Machine Learning | Deep Learning | Data Visualization | Web Scarping
+* Worked on Data Science | Machine Learning | Deep Learning | Data Visualization | Web Scarping | Python | Django 
 
 * You Can Contact Me here: <a href="mailto:sulenitin56@gmail.com" >sulenitin56@gmail.com<br>
 
